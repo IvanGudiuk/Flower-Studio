@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "Flower-Studio",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://s-chili.github.io/oGo_IT-Flower_Studio/",
+  "homepage": "https://ivangudiuk.github.io/Flower-Studio/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /oGo_IT-Flower_Studio/"
+    "build": "parcel build src/*.html --public-url /Flower-Studio/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/IvanGudiuk/Flower-Studio"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/IvanGudiuk/Flower-Studio/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
